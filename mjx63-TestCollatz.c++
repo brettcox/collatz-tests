@@ -121,7 +121,7 @@ TEST(CollatzFixture, solve_2) {
     istringstream r("1 1\n963332 48962\n348141 571003\n431262 890486\n");
     ostringstream w;
     collatz_solve(r, w);
-    ASSERT_EQ("1 1 1\n963332 48962 476\n348141 571003 470\n431262 890486 470\n", w.str());}
+    ASSERT_EQ("1 1 1\n963332 48962 525\n348141 571003 470\n431262 890486 525\n", w.str());}
 
 /*
 % ls -al /usr/include/gtest/
