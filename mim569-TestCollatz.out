@@ -5,8 +5,8 @@ Taken at least once:65.00% of 60
 Calls executed:77.50% of 40
 Creating 'Collatz.c++.gcov'
 File 'TestCollatz.c++'
-Lines executed:100.00% of 99
-Branches executed:59.08% of 606
-Taken at least once:29.87% of 606
-Calls executed:53.16% of 696
+Lines executed:100.00% of 103
+Branches executed:59.34% of 610
+Taken at least once:30.16% of 610
+Calls executed:53.68% of 706
 Creating 'TestCollatz.c++.gcov'

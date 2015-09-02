@@ -148,6 +148,13 @@ TEST(CollatzFixture, eval_17) {
     ASSERT_EQ(max(v1, v2), v3);
 }
 
+TEST(CollatzFixture, eval_18) {
+    // Make sure no assertions fail
+    for (int i = 1; i <= 1000000; ++i) {
+        collatz_eval(i, i);
+    }
+}
+
 // -----
 // print
 // -----
