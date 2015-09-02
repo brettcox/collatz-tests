@@ -1,0 +1,12 @@
+File 'Collatz.c++'
+Lines executed:100.00% of 34
+Branches executed:100.00% of 40
+Taken at least once:65.00% of 40
+Calls executed:79.17% of 24
+Creating 'Collatz.c++.gcov'
+File 'TestCollatz.c++'
+Lines executed:100.00% of 66
+Branches executed:60.93% of 430
+Taken at least once:30.47% of 430
+Calls executed:53.12% of 497
+Creating 'TestCollatz.c++.gcov'
